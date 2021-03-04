@@ -1,16 +1,17 @@
-id: opecha:P000526
+id: P000526
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS18847
   title: ཉེན་མེད་ཐོན་སྐྱེད་བྱེད་ཕྱོགས་སྐོར་གྱི་ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ་ཀྱི་བཅའ་ཁྲིམས།
-  volume:
+  author: ''
+  volumes:
     70433742c9f0429cbc59253260e21d12:
       image_group_id: I8LS18849
       title: Volume 1 of nyen med thon skyed byed phyogs skor gyi krung hwa mi dmangs
         spyi mthun rgyal khab k+mi bca' khrims/
       volume_number: 1
       total_pages: 68
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཉེན་མེད་ཐོན་སྐྱེད་བྱེད་ཕྱོགས་སྐོར་གྱི་ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ་ཀྱི་བཅའ་ཁྲིམས།
   author: ''
