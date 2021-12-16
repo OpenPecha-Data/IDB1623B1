@@ -1,7 +1,7 @@
 id: P000526
 initial_creation_type: ocr
 created_at: 25/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-16 15:44:35.031062
 source_metadata:
   id: bdr:W8LS18847
   title: ཉེན་མེད་ཐོན་སྐྱེད་བྱེད་ཕྱོགས་སྐོར་གྱི་ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ་ཀྱི་བཅའ་ཁྲིམས།
@@ -14,3 +14,5 @@ source_metadata:
       volume_number: 1
       total_pages: 68
       base_file: v001.txt
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
